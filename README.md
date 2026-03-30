@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zee-offcial&label=Profile%20views&color=blueviolet&style=plastic" alt="zee-offcial" />
+  <img src="https://komarev.com/ghpvc/?username=dev-mzeeshan&label=Profile%20views&color=blueviolet&style=plastic" alt="dev-mzeeshan" />
 </p>
 
 ---
