@@ -5,7 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=dev-mzeeshan&label=Profile+Views&color=6366f1&style=flat-square)](https://github.com/dev-mzeeshan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-zeeshan--portfolio-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://zeeshan-portfolio-amber.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zeeshanofficial-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshanofficial)
-[![Email](https://img.shields.io/badge/Email-zeeshancup%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zeeshancup@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dev--mzeeshan%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev-mzeeshan@gmail.com)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## About
 
-I'm an AI Engineer based in Islamabad, Pakistan, currently building AI-powered systems at **Amalaxis**. My focus is on turning cutting-edge AI research into production-ready applications — specifically **Retrieval-Augmented Generation (RAG) pipelines**, **LLM integration**, and **intelligent automation workflows**.
+I'm an AI Engineer based in Islamabad, Pakistan, currently building AI-powered systems at **Amalaxis**. My focus is on turning cutting-edge AI research into production-ready applications specifically **Retrieval-Augmented Generation (RAG) pipelines**, **LLM integration**, and **intelligent automation workflows**.
 
 I believe great AI engineers ship. Not just experiment.
 
@@ -24,8 +24,8 @@ profile = {
     "company":    "Amalaxis",
     "location":   "Islamabad, Pakistan",
     "focus":      ["RAG Pipelines", "LLM Integration", "Generative AI"],
-    "stack":      ["Python", "LangChain", "FAISS", "Django", "Groq API"],
-    "status":     "open_to_work",
+    "stack":      ["Python", "LangChain", "FAISS", "Django"],
+    "status":     "open_to_discuss",
     "cgpa":       "3.43 / 4.0",
 }
 ```
@@ -34,11 +34,11 @@ profile = {
 
 ## What I Build
 
-**Generative AI & RAG** — Document intelligence systems, multi-document QA, semantic search with FAISS and ChromaDB, LLM orchestration with LangChain.
+**Generative AI & RAG** Document intelligence systems, multi-document QA, semantic search with FAISS and ChromaDB, LLM orchestration with LangChain.
 
-**AI-Powered Backends** — Production APIs with Django and FastAPI that serve ML models at scale. Prediction systems for business intelligence — revenue forecasting, churn prediction, customer behavior modeling.
+**AI-Powered Backends** Production APIs with Django and FastAPI that serve ML models at scale. Prediction systems for business intelligence revenue forecasting, churn prediction, customer behavior modeling.
 
-**Intelligent Automation** — n8n workflows that integrate AI models for data processing, feedback analysis, and business insights extraction.
+**Intelligent Automation** n8n workflows that integrate AI models for data processing, feedback analysis, and business insights extraction.
 
 ---
 
@@ -65,8 +65,8 @@ profile = {
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
-| **RAG Document QA** | Chat with any PDF using semantic search and LLMs | LangChain · FAISS · Groq · Streamlit | [Demo](https://rag-document-qa.streamlit.app) |
-| **Customer Feedback Analyzer** | AI pipeline for sentiment analysis, emotion detection, and business recommendations | Groq · Llama 3.3 · Gradio · Python | [Demo](https://customer-feedback-analyzer.onrender.com) |
+| **RAG Document QA** | Chat with any PDF using semantic search and LLMs | LangChain · FAISS · Groq · Streamlit | [Demo](https://rag-document-app-zee.streamlit.app) |
+| **Customer Feedback Analyzer** | AI pipeline for sentiment analysis, emotion detection, and business recommendations | Groq · Llama 3.3 · Gradio · Python | [Demo](https://huggingface.co/spaces/dev-mzeeshan/customer-feedback-analyzer) |
 | **Drowsiness Detection System** | Real-time IoT safety system with ESP32 CCTV integration | OpenCV · Python · ESP32 | [Repo](https://github.com/dev-mzeeshan) |
 | **Double Sawari Detection** | YOLOv5 traffic enforcement system for motorcycle violations | YOLOv5 · Computer Vision · Python | [Repo](https://github.com/dev-mzeeshan) |
 
@@ -76,8 +76,14 @@ profile = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-mzeeshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mzeeshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-mzeeshan&theme=tokyonight" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-mzeeshan&theme=tokyonight" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-mzeeshan&theme=tokyonight" height="160" />
 
 </div>
 
@@ -92,7 +98,6 @@ profile = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-mzeeshan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff" />
 
 </div>
-
 ---
 
 ## Experience
@@ -108,36 +113,21 @@ Built Django web applications, designed database schemas and ERDs.
 
 ---
 
+## **Let's Innovate Together!** 
+
+Always open to collaboration, discussions, and innovative projects in AI/ML. Let's build the future, one line of code at a time!
+
+---
+
 <div align="center">
 
-**BS Computer Science — COMSATS University Islamabad** · CGPA 3.43/4.0
+**BS Computer Science, COMSATS University Islamabad** · CGPA 3.43/4.0
 
 *Open to AI Engineer roles, collaborations, and interesting projects.*
 
-**[View Portfolio](https://zeeshan-portfolio-amber.vercel.app)** · **[Connect on LinkedIn](https://linkedin.com/in/zeeshanofficial)** · **[zeeshancup@gmail.com](mailto:zeeshancup@gmail.com)**
+**[View Portfolio](https://zeeshan-portfolio-amber.vercel.app)** · **[Connect on LinkedIn](https://linkedin.com/in/zeeshanofficial)** · **[dev-mzeeshan@gmail.com](mailto:dev-mzeeshan@gmail.com)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
 
 </div>
----
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-mzeeshan&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mzeeshan&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mzeeshan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-
-### 🎯 **Let's Innovate Together!** 🚀
-
-💬 Always open to collaboration, discussions, and innovative projects in AI/ML. Let's build the future, one line of code at a time! 🚀
