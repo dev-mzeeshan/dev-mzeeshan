@@ -1,85 +1,79 @@
-<div align="center">
+### <h1 align="center">Hello World! 👋 I'm Muhammad Zeeshan</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Muhammad%20Zeeshan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20%C2%B7%20LLMs%20%C2%B7%20Generative%20AI&descAlignY=58&descColor=c7d2fe" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=dev-mzeeshan&label=Profile+Views&color=6366f1&style=flat-square)](https://github.com/dev-mzeeshan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-zeeshan--portfolio-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://zeeshan-portfolio-amber.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zeeshanofficial-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshanofficial)
-[![Email](https://img.shields.io/badge/Email-zeeshancup%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zeeshancup@gmail.com)
-
-</div>
+<h3 align="center">🚀 AI/ML Engineer | Deep Learning Enthusiast | Python Developer</h3>
 
 ---
 
-## About
-
-I'm an AI Engineer based in Islamabad, Pakistan, currently building AI-powered systems at **Amalaxis**. My focus is on turning cutting-edge AI research into production-ready applications — specifically **Retrieval-Augmented Generation (RAG) pipelines**, **LLM integration**, and **intelligent automation workflows**.
-
-I believe great AI engineers ship. Not just experiment.
-
-```python
-profile = {
-    "name":       "Muhammad Zeeshan",
-    "role":       "AI Engineer",
-    "company":    "Amalaxis",
-    "location":   "Islamabad, Pakistan",
-    "focus":      ["RAG Pipelines", "LLM Integration", "Generative AI"],
-    "stack":      ["Python", "LangChain", "FAISS", "Django", "Groq API"],
-    "status":     "open_to_work",
-    "cgpa":       "3.43 / 4.0",
-}
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-mzeeshan&label=Profile%20views&color=blueviolet&style=plastic" alt="dev-mzeeshan" />
+</p>
 
 ---
 
-## What I Build
+## 🚀 About Me
 
-**Generative AI & RAG** — Document intelligence systems, multi-document QA, semantic search with FAISS and ChromaDB, LLM orchestration with LangChain.
+💡 Passionate **AI/ML Engineer** with a strong foundation in **Deep Learning**, **Computer Vision**, and **Natural Language Processing**. I specialize in **building intelligent systems**, leveraging data science, and deploying scalable AI solutions. My expertise includes:
 
-**AI-Powered Backends** — Production APIs with Django and FastAPI that serve ML models at scale. Prediction systems for business intelligence — revenue forecasting, churn prediction, customer behavior modeling.
-
-**Intelligent Automation** — n8n workflows that integrate AI models for data processing, feedback analysis, and business insights extraction.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=chainlink&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white)
-
-</div>
+- 🔬 **Machine Learning & Deep Learning** (TensorFlow, PyTorch, Scikit-learn)
+- 🧠 **AI-Powered Systems** (Computer Vision, NLP, Generative AI)
+- 🐍 **Python Development** (Django, Flask, FastAPI)
+- ⚡ **Backend Engineering** (REST APIs, Microservices, Databases)
+- ☁ **Cloud & DevOps** (AWS, Docker, CI/CD Pipelines)
+- 🛠 **Full-Stack Development** (React, Node.js, Laravel)
 
 ---
 
-## Featured Projects
+## 🔗 Connect With Me:
 
-| Project | Description | Stack | Live |
-|---------|-------------|-------|------|
-| **RAG Document QA** | Chat with any PDF using semantic search and LLMs | LangChain · FAISS · Groq · Streamlit | [Demo](https://rag-document-qa.streamlit.app) |
-| **Customer Feedback Analyzer** | AI pipeline for sentiment analysis, emotion detection, and business recommendations | Groq · Llama 3.3 · Gradio · Python | [Demo](https://customer-feedback-analyzer.onrender.com) |
-| **Drowsiness Detection System** | Real-time IoT safety system with ESP32 CCTV integration | OpenCV · Python · ESP32 | [Repo](https://github.com/dev-mzeeshan) |
-| **Double Sawari Detection** | YOLOv5 traffic enforcement system for motorcycle violations | YOLOv5 · Computer Vision · Python | [Repo](https://github.com/dev-mzeeshan) |
+<p align="left">
+<a href="https://linkedin.com/in/zeeshanofficial" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
+</a>
+<a href="https://twitter.com/zee_official_1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="40" width="40"/>
+</a>
+<a href="mailto:dev-mzeeshan@gmail.com" target="blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="40" width="40"/>
+</a>
+</p>
 
 ---
 
-## GitHub Stats
+## 🛠️ Tech Stack & Tools:
 
-<div align="center">
+### **AI & Machine Learning:**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-mzeeshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mzeeshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="165" />
+### **Backend & Cloud:**
+<p>
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="40" height="40"/>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
+</p>
 
-</div>
+
+### **Frontend & UI/UX:**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-mzeeshan&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 <div align="center">
 
@@ -92,52 +86,33 @@ profile = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-mzeeshan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff" />
 
 </div>
+---
+
+## ☕ Support My Work:
+
+If you like my contributions, consider **supporting me**:
+
+<a href="https://ko-fi.com/zee_official">
+  <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy Me a Coffee" />
+</a>
 
 ---
 
-## Experience
+## **Let's Innovate Together!** 
 
-**AI Engineer @ Amalaxis** *(Dec 2024 — Present)*
-Built RAG pipelines for document QA, deployed prediction models (revenue, churn, customer behavior), and designed n8n automation workflows for a restaurant BI platform.
-
-**Associate Software Developer @ Global Link Pvt. Ltd.** *(Nov 2023 — May 2024)*
-Developed and maintained AI-driven applications, optimized real-time analytics systems.
-
-**Web Developer @ Bitcode Systems** *(Aug 2023 — Oct 2023)*
-Built Django web applications, designed database schemas and ERDs.
+Always open to collaboration, discussions, and innovative projects in AI/ML. Let's build the future, one line of code at a time!
 
 ---
 
 <div align="center">
 
-**BS Computer Science — COMSATS University Islamabad** · CGPA 3.43/4.0
+**BS Computer Science, COMSATS University Islamabad** · CGPA 3.43/4.0
 
 *Open to AI Engineer roles, collaborations, and interesting projects.*
 
-**[View Portfolio](https://zeeshan-portfolio-amber.vercel.app)** · **[Connect on LinkedIn](https://linkedin.com/in/zeeshanofficial)** · **[zeeshancup@gmail.com](mailto:zeeshancup@gmail.com)**
+**[View Portfolio](https://zeeshan-portfolio-amber.vercel.app)** · **[Connect on LinkedIn](https://linkedin.com/in/zeeshanofficial)** · **[dev-mzeeshan@gmail.com](mailto:dev-mzeeshan@gmail.com)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
 
 </div>
----
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-mzeeshan&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mzeeshan&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mzeeshan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-
-### 🎯 **Let's Innovate Together!** 🚀
-
-💬 Always open to collaboration, discussions, and innovative projects in AI/ML. Let's build the future, one line of code at a time! 🚀
