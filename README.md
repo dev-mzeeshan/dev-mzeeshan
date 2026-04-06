@@ -5,7 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=dev-mzeeshan&label=Profile+Views&color=6366f1&style=flat-square)](https://github.com/dev-mzeeshan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-zeeshan--portfolio-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://zeeshan-portfolio-amber.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zeeshanofficial-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshanofficial)
-[![Email](https://img.shields.io/badge/Email-zeeshancup%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zeeshancup@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dev.mzeeshan%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.mzeeshan@gmail.com)
 
 </div>
 
@@ -114,7 +114,7 @@ Built Django web applications, designed database schemas and ERDs.
 
 *Open to AI Engineer roles, collaborations, and interesting projects.*
 
-**[View Portfolio](https://zeeshan-portfolio-amber.vercel.app)** · **[Connect on LinkedIn](https://linkedin.com/in/zeeshanofficial)** · **[zeeshancup@gmail.com](mailto:zeeshancup@gmail.com)**
+**[View Portfolio](https://zeeshan-portfolio-amber.vercel.app)** · **[Connect on LinkedIn](https://linkedin.com/in/zeeshanofficial)** · **[dev.mzeeshan@gmail.com](mailto:dev.mzeeshan@gmail.com)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
 
