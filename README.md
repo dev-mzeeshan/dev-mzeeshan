@@ -66,7 +66,8 @@ profile = {
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
 | **RAG Document QA** | Chat with any PDF using semantic search and LLMs | LangChain · FAISS · Groq · Streamlit | [Demo](https://rag-document-app-zee.streamlit.app) |
-| **Customer Feedback Analyzer** | AI pipeline for sentiment analysis, emotion detection, and business recommendations | Groq · Llama 3.3 · Gradio · Python | [Demo](https://huggingface.co/spaces/dev-mzeeshan/customer-feedback-analyzer) |
+| **Customer Feedback Analyzer** | Upload any meeting recording and get automatic transcription, structured summary, action items with owners, key decisions, and a downloadable PDF. | Whisper · Groq · Llama 3.3 · Gradio · Python | [Demo](https://huggingface.co/spaces/dev-mzeeshan/ai-meeting-assistant) |
+| **AI Meeting Assistant** | AI pipeline for sentiment analysis, emotion detection, and business recommendations | Groq · Llama 3.3 · Gradio · Python | [Demo](https://huggingface.co/spaces/dev-mzeeshan/customer-feedback-analyzer) |
 | **Drowsiness Detection System** | Real-time IoT safety system with ESP32 CCTV integration | OpenCV · Python · ESP32 | [Repo](https://github.com/dev-mzeeshan) |
 | **Double Sawari Detection** | YOLOv5 traffic enforcement system for motorcycle violations | YOLOv5 · Computer Vision · Python | [Repo](https://github.com/dev-mzeeshan) |
 
