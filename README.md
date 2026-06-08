@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Muhammad%20Zeeshan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20%C2%B7%20LLMs%20%C2%B7%20Generative%20AI&descAlignY=58&descColor=c7d2fe" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dev-mzeeshan&label=Profile+Views&color=6366f1&style=flat-square)](https://github.com/dev-mzeeshan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-zeeshan--portfolio-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://zeeshan-portfolio-amber.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zeeshan--portfolio-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://dev-zeeshan-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zeeshanofficial-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshanofficial)
 [![Email](https://img.shields.io/badge/Email-dev.mzeeshan%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.mzeeshan@gmail.com)
 
@@ -65,7 +65,7 @@ profile = {
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
-| **RAG Document QA** | Chat with any PDF using semantic search and LLMs | LangChain · FAISS · Groq · Streamlit | [Demo](https://rag-document-app-zee.streamlit.app) |
+| **DocSense Hybrid RAG** | Chat with any multi PDF using hybrid search and LLMs | LangChain · FAISS · Groq · Streamlit | [Demo](https://docsense-hybrid-rag.streamlit.app) |
 | **AI Meeting Assistant** | Upload any meeting recording and get automatic transcription, structured summary, action items with owners, key decisions, and a downloadable PDF. | Whisper · Groq · Llama 3.3 · Gradio · Python | [Demo](https://huggingface.co/spaces/dev-mzeeshan/ai-meeting-assistant) |
 | **Customer Feedback Analyzer** | AI pipeline for sentiment analysis, emotion detection, and business recommendations | Groq · Llama 3.3 · Gradio · Python | [Demo](https://huggingface.co/spaces/dev-mzeeshan/customer-feedback-analyzer) |
 | **Drowsiness Detection System** | Real-time IoT safety system with ESP32 CCTV integration | OpenCV · Python · ESP32 | [Repo](https://github.com/dev-mzeeshan) |
@@ -103,7 +103,10 @@ profile = {
 
 ## Experience
 
-**AI Engineer @ Amalaxis** *(Dec 2024 — Present)*
+**Co-Founder & AI Automation Engineer @ ChatSetGo** *(July 2025 — Present)*
+Built RAG pipelines for document QA, deployed prediction models (revenue, churn, customer behavior), and designed n8n automation workflows for a restaurant BI platform.
+
+**AI Engineer @ Amalaxis** *(Dec 2024 — July 2025)*
 Built RAG pipelines for document QA, deployed prediction models (revenue, churn, customer behavior), and designed n8n automation workflows for a restaurant BI platform.
 
 **Associate Software Developer @ Global Link Pvt. Ltd.** *(Nov 2023 — May 2024)*
@@ -126,7 +129,7 @@ Always open to collaboration, discussions, and innovative projects in AI/ML. Let
 
 *Open to AI Engineer roles, collaborations, and interesting projects.*
 
-**[View Portfolio](https://zeeshan-portfolio-amber.vercel.app)** · **[Connect on LinkedIn](https://linkedin.com/in/zeeshanofficial)** · **[dev.mzeeshan@gmail.com](mailto:dev.mzeeshan@gmail.com)**
+**[View Portfolio](https://dev-zeeshan-portfolio.vercel.app)** · **[Connect on LinkedIn](https://linkedin.com/in/zeeshanofficial)** · **[dev.mzeeshan@gmail.com](mailto:dev.mzeeshan@gmail.com)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
 
